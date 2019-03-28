@@ -1,4 +1,4 @@
-##My Wallet App where you can deposit/withdraw money anytime.
+## My Wallet App where you can deposit/withdraw money anytime.
 
 ## Available Scripts
 
